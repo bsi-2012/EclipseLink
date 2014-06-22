@@ -1,7 +1,7 @@
 EclipseLink
 ===========
 
-Apresentação disponível <a href="https://speakerdeck.com/fabricioronchi/eclipselink" target="_blank">aqui</a>.
+Apresentação disponível <a href="https://speakerdeck.com/realronchi/eclipselink" target="_blank">aqui</a>.
 
 Seminário sobre EclipseLink
 
